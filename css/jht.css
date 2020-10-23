@@ -25,6 +25,8 @@ body {
     -ms-interpolation-mode: bicubic;
     margin-top: 40px;
     width: 100%;
+    height: auto;
+    max-height: 400px;
     max-width: 700px;
 }
 
